@@ -1,0 +1,36 @@
+.writeup{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 50px;
+
+}
+.jumbotron{
+  width: 40%;
+}
+.species{
+  text-align: center;
+  margin-top: 60px;
+
+}
+
+.wrapper{
+  background-color: #c203fc;
+}
+a{
+  color: white;
+}
+.Smedia{
+  display: flex;
+  flex-direction: column;
+justify-content: flex-start;
+}
+#diet{
+  position: relative;
+}
+#zero{
+  position: relative;
+}
+#normal{
+  position: relative;
+}
